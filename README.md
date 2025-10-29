@@ -5,7 +5,7 @@
 - Gaming
 - 🌱 I’m currently learning ...
 - VEX Coding for Houdini
-- Bazzite Compatablility 
+- Bazzite Compatablity 
 - 📫 How to reach me ...
 - LinkedIn: https://www.linkedin.com/in/ethan-t-smith/
 
