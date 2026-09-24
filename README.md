@@ -3,9 +3,12 @@
 - Simulation
 - VFX
 - Gaming
+- CAD Design
 - 🌱 I’m currently learning ...
 - VEX Coding for Houdini
-- Bazzite Compatablity 
+- Fedora Compatibility
+- C++
+- Cmake 
 - 📫 How to reach me ...
 - LinkedIn: https://www.linkedin.com/in/ethan-t-smith/
 
