@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @TAB-Ethan
-- 👀 I’m interested in ...
+👋 Hi, I’m @TAB-Ethan
+# 👀 I’m interested in ...
 - Simulation
 - VFX
 - Gaming
 - CAD Design
-- 🌱 I’m currently learning ...
+# 🌱 I’m currently learning ...
 - VEX Coding for Houdini
 - Fedora Compatibility
 - C++
